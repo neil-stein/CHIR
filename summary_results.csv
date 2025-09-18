@@ -1,0 +1,11 @@
+Payer,any_match_col1,all_match_col1,any_match_col2,all_match_col2
+Aetna,2,2,20,19
+Anthem,115,114,115,114
+BCBS Illinois,16,16,23,22
+BCBS Texas,19,19,28,28
+Blue Shield California,6,6,6,5
+Cigna,89,89,89,89
+Florida Blue,2,2,13,13
+Kaiser Permanente,26,26,17,17
+Oscar Health Insurance,46,46,46,46
+United Healthcare,68,55,69,69
