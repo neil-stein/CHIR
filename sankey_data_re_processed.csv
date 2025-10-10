@@ -1,0 +1,53 @@
+Source,Dest,Value,step_from,step_to
+Aetna,Dexcom,78,0,1
+Dexcom,Dexcom,693,1,2
+Dexcom,Match of Coverage and Preference,693,2,3
+Aetna,FreeStyle,59,0,1
+FreeStyle,FreeStyle,698,1,2
+FreeStyle,Match of Coverage and Preference,698,2,3
+Aetna,Medtronic,24,0,1
+Medtronic,Fewer Preferred Devices than Coverage,265,2,3
+Aetna,Eversense,13,0,1
+Eversense,Fewer Preferred Devices than Coverage,177,2,3
+FreeStyle,Fewer Preferred Devices than Coverage,92,2,3
+Dexcom,Fewer Preferred Devices than Coverage,5,2,3
+Aetna,No Coverage or Preferences Listed,18,0,3
+Anthem,Dexcom,242,0,1
+Anthem,Medtronic,172,0,1
+Anthem,Eversense,144,0,1
+Anthem,FreeStyle,267,0,1
+Anthem,No Coverage or Preferences Listed,2,0,3
+BCBS Illinois,Dexcom,12,0,1
+BCBS Illinois,No Coverage or Preferences Listed,21,0,3
+BCBS Texas,Dexcom,20,0,1
+BCBS Texas,No Coverage or Preferences Listed,17,0,3
+Blue Shield California,Dexcom,10,0,1
+Blue Shield California,FreeStyle,6,0,1
+Blue Shield California,Medtronic,6,0,1
+Blue Shield California,No Coverage or Preferences Listed,3,0,3
+Cigna,Dexcom,174,0,1
+Cigna,FreeStyle,295,0,1
+Cigna,Medtronic,56,0,1
+Cigna,Eversense,12,0,1
+Cigna,No Coverage or Preferences Listed,16,0,3
+Florida Blue,Dexcom,20,0,1
+Florida Blue,FreeStyle,25,0,1
+Florida Blue,No Coverage or Preferences Listed,5,0,3
+Kaiser Permanente,Dexcom,10,0,1
+Kaiser Permanente,FreeStyle,20,0,1
+Kaiser Permanente,Medtronic,6,0,1
+Kaiser Permanente,Eversense,6,0,1
+Kaiser Permanente,No Coverage or Preferences Listed,6,0,3
+Oscar Health Insurance,Dexcom,90,0,1
+Oscar Health Insurance,FreeStyle,40,0,1
+Oscar Health Insurance,Medtronic,1,0,1
+Oscar Health Insurance,Eversense,2,0,1
+United Healthcare,Dexcom,42,0,1
+United Healthcare,FreeStyle,78,0,1
+United Healthcare,Eversense,2,0,1
+Eversense,Eversense,2,1,2
+Eversense,Match of Coverage and Preference,2,2,3
+United Healthcare,No Coverage or Preferences Listed,81,0,3
+United Healthcare,Medtronic,38,0,1
+Medtronic,Medtronic,38,1,2
+Medtronic,Match of Coverage and Preference,38,2,3

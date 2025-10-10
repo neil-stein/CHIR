@@ -1,0 +1,63 @@
+Source,Dest,Value,step_from,step_to
+Aetna,Dexcom,114,0,1
+Dexcom,Dexcom,693,1,2
+Dexcom,Match of Coverage and Preference,693,2,3
+Aetna,FreeStyle,67,0,1
+FreeStyle,FreeStyle,698,1,2
+FreeStyle,Match of Coverage and Preference,698,2,3
+Aetna,Medtronic,28,0,1
+Medtronic,Fewer Preferred Devices than Coverage,265,2,3
+Aetna,Eversense,17,0,1
+Eversense,Fewer Preferred Devices than Coverage,177,2,3
+FreeStyle,Fewer Preferred Devices than Coverage,92,2,3
+Dexcom,Fewer Preferred Devices than Coverage,5,2,3
+Dexcom,No Preference Listed,243,2,3
+FreeStyle,No Preference Listed,281,2,3
+Eversense,No Preference Listed,51,2,3
+Medtronic,No Preference Listed,97,2,3
+Aetna,No Coverage or Preferences Listed,2,0,3
+Anthem,No Coverage or Preferences Listed,4,0,3
+Anthem,Dexcom,244,0,1
+Anthem,Medtronic,175,0,1
+Anthem,Eversense,146,0,1
+Anthem,FreeStyle,270,0,1
+BCBS Illinois,Dexcom,50,0,1
+BCBS Illinois,FreeStyle,34,0,1
+BCBS Illinois,Eversense,15,0,1
+BCBS Illinois,Medtronic,15,0,1
+BCBS Texas,Dexcom,50,0,1
+BCBS Texas,No Coverage or Preferences Listed,2,0,3
+BCBS Texas,FreeStyle,38,0,1
+BCBS Texas,No Coverage Listed,2,0,3
+BCBS Texas,Eversense,18,0,1
+BCBS Texas,Medtronic,16,0,1
+Blue Shield California,Dexcom,12,0,1
+Blue Shield California,FreeStyle,9,0,1
+Blue Shield California,Medtronic,9,0,1
+Cigna,Dexcom,204,0,1
+Cigna,FreeStyle,351,0,1
+Cigna,Medtronic,62,0,1
+Cigna,Eversense,17,0,1
+Cigna,No Coverage or Preferences Listed,2,0,3
+Florida Blue,Dexcom,30,0,1
+Florida Blue,FreeStyle,40,0,1
+Florida Blue,No Coverage or Preferences Listed,1,0,3
+Kaiser Permanente,Dexcom,19,0,1
+Kaiser Permanente,FreeStyle,36,0,1
+Kaiser Permanente,Medtronic,18,0,1
+Kaiser Permanente,Eversense,13,0,1
+Kaiser Permanente,No Coverage or Preferences Listed,16,0,3
+Oscar Health Insurance,Dexcom,90,0,1
+Oscar Health Insurance,No Coverage or Preferences Listed,2,0,3
+Oscar Health Insurance,FreeStyle,40,0,1
+Oscar Health Insurance,Medtronic,1,0,1
+Oscar Health Insurance,Eversense,2,0,1
+United Healthcare,No Coverage or Preferences Listed,6,0,3
+United Healthcare,Dexcom,128,0,1
+United Healthcare,FreeStyle,186,0,1
+United Healthcare,Eversense,2,0,1
+Eversense,Eversense,2,1,2
+Eversense,Match of Coverage and Preference,2,2,3
+United Healthcare,Medtronic,76,0,1
+Medtronic,Medtronic,38,1,2
+Medtronic,Match of Coverage and Preference,38,2,3
